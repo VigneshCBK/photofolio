@@ -201,7 +201,48 @@ transition: 0.3s;
     justify-content: space-between;
     list-style: none;
 }
-
+.intex-pic img{
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    width:50%;
+    margin-left: 200px;
+}
+.intex-para{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: -150px;
+}
+.intex{
+    display: flex;
+}
+.flex-icon i{
+    font-size: 48px;
+    float: left;
+    color: #ffc451;
+}
+.icon-h2 h2{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 5px 0 10px 60px;
+}
+.icon-h2 p{
+    font-size: 15px;
+    color: #848484;
+    margin-left: 60px;
+}
+.ser-head h2{
+    font-size: 14px;
+    font-weight: 500;
+    padding: 0;
+    line-height: 1px;
+    margin: 0 0 5px 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #aaaaaa;
+    font-family: "Poppins", sans-serif;
+}
 
 
 
